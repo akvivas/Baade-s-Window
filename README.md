@@ -4,3 +4,6 @@ Complimentary material from article "MAPPING THE INTERSTELLAR REDDENING AND EXTI
 The contents in this repository are:
 
 Reddening map (B1reddeningmap.fits): Multiextension fits file with color excess information in the region in bins of 30 arcseconds in each coordinate. File contains WCS information encoding RA and DEC. Extension [1] has E(r-z) and extension [2] contains E(g-i)
+
+Lightcurves: Lightcurves and best fitted template in ugriz for the 475 RR Lyrae stars of type ab used in this work. An example is seen in Figure 3 of the main paper.
+
