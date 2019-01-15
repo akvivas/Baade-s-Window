@@ -11,5 +11,5 @@ The contents in this repository are:
   1. Extension [1] = E(r-z) 
   2. Extension [2] = E(g-i)
 
-- **Lightcurves** (*lightcurves/*): PDF files with lightcurves and best fitted template in ugriz for the 475 RR Lyrae stars of type ab used in this work. An example is seen in Figure 3 of the main paper.
+- **Lightcurves** (*lightcurves/*): PDF files with lightcurves and best fitted template in ugriz for the 474 RR Lyrae stars of type ab used in this work. An example is seen in Figure 3 of the main paper.
 
